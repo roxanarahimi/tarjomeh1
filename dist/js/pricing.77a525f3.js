@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktarjomeh1"]=self["webpackChunktarjomeh1"]||[]).push([[717],{9559:function(n,e,r){function t(n,e,r,t,u,a){return null}r.r(e),r.d(e,{default:function(){return f}});var u={name:"Pricing"},a=r(89);const c=(0,a.Z)(u,[["render",t]]);var f=c}}]);
+//# sourceMappingURL=pricing.77a525f3.js.map
