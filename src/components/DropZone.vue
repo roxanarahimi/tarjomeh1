@@ -114,8 +114,9 @@ export default {
 
           var img = new Image();
 
-          img.src = pdfCanvas().toDataURL();
-          alert(img.src);
+          // img.src = pdfCanvas().toDataURL();
+          // alert(img.src);
+          console.log('pdf');
         }
         let formData = new FormData();
         formData.append('file', document.querySelector('#dzFile').files[0])

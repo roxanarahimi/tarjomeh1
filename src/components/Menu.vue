@@ -1,5 +1,5 @@
 <template>
-   <nav  dir="ltr" class="animate__animated animate__fadeInDown navbar navbar-expand-lg navbar-light bg-light">
+   <nav  dir="ltr" class="animate__animated animate__fadeInDown navbar navbar-expand-lg navbar-light ">
      <div class="container-fluid">
        <a class="navbar-brand" href="#"></a>
        <button class="btn btn-dark d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling" >
